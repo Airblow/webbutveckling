@@ -1,58 +1,37 @@
-body{
-    background-color: rgb(0, 195, 255)
-
+body {
+	background-color: rgb(0, 195, 255);
 }
-p{
-    color:rgb(0, 0, 0);
-
+p {
+	color: rgb(0, 0, 0);
 }
-h1{
-    text-align: center;
-    font-size: 22px;
-    font-family: arial;
-
+h1 {
+	text-align: center;
+	font-size: 22px;
+	font-family: arial;
 }
-.jag{
-    border-style: solid;
+.jag {
+	border-style: solid;
 }
 
-
-h2{
-    text-align:center;
+h2 {
+	text-align: center;
 }
 
-.program{
-    color: rgb(255, 251, 0);
-    text-align: center;
-    background-color:rgba(9, 83, 245, 0.87)
+.program {
+	color: rgb(255, 251, 0);
+	text-align: center;
+	background-color: rgba(9, 83, 245, 0.87);
 }
 
-.tankar{
-    text-align: right;
+.tankar {
+	text-align: right;
 }
 
-.länk{
-    text-decoration: none;
-    text-align: center;
+.altp {
+	text-align: center;
 }
-
-.altp{
-    text-align: center;
+.bild {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
-.bild{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    
-}
-
-
-
-
-    
-
-    
-
-
-
-
